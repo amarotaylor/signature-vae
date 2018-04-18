@@ -1,7 +1,7 @@
 # signature-vae
 How to install CUDA-9.0 on Ubuntu 16.04
 
-sudo apt-get purge cuda
+sudo apt-get purge cuda \\
 sudo apt-get purge libcudnn6
 sudo apt-get purge libcudnn6-dev
 
