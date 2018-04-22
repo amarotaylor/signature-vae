@@ -11,3 +11,5 @@ http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/ 
 https://www.biorxiv.org/content/biorxiv/early/2018/01/19/142760.full.pdf -- Deep learning opportunities in biology
 
 https://arxiv.org/pdf/1704.00406.pdf -- Sparse autoencoder for histopathology nucelus detection (Stony Brook)
+
+Conference : https://sites.google.com/view/wcb2018/call-for-submissions?authuser=0
