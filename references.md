@@ -15,3 +15,7 @@ https://arxiv.org/pdf/1704.00406.pdf -- Sparse autoencoder for histopathology nu
 Conference : https://sites.google.com/view/wcb2018/call-for-submissions?authuser=0
 
 https://danijar.com/building-variational-auto-encoders-in-tensorflow/ -- variational autoencoder in tensorflow
+
+https://pdfs.semanticscholar.org/b6b9/39ffc9920cd8521299a6fe9ec55775f9bf3c.pdf --  Semi-supervised Learning with Deep Generative Models
+
+http://bjlkeng.github.io/posts/semi-supervised-learning-with-variational-autoencoders/ -- Semi-supervised Learning with Variational Autoencoders
