@@ -29,7 +29,7 @@ sudo dpkg -i libnccl2_2.1.4-1+cuda9.0_amd64.deb
 sudo dpkg -i libnccl-dev_2.1.4-1+cuda9.0_amd64.deb
 
 sudo apt-key adv --fetch-keys http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/7fa2af80.pub
-
+# specific issue due to old VM images : sudo curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key add -
 sudo apt-get update
 
 sudo apt-get install cuda=9.0.176-1
